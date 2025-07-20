@@ -3,7 +3,7 @@
 **Description:** A bipedal robot capable of sensing its environment and controllable via Bluetooth
 
 <div style="text-align: center;">
-  <img src="images\otto.jpg" alt="FOX" width="300"/>
+  <img src="images\otto.jpg" alt="Otto" width="300"/>
 </div>
 
 
@@ -17,16 +17,11 @@ This project is the first electronics project I have completed. It was inspired 
 
 Here you will find links to the different parts of the project:
 
-* [Link 1](docs\developer\example.md)
+* [3D Parts Design](docs\Meca.md)
 
-* [Link 2](docs\user\example.md)
+* [Electronics Guide](docs\Elec.md)
 
-
-
-## 🔭 Prospects
-
-Lorem Ipsum
-
+* [Arduino Code Overview](docs\Code.md)
 
 ## 🔍 About this project
 
