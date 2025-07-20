@@ -17,11 +17,11 @@ This project is the first electronics project I have completed. It was inspired 
 
 Here you will find links to the different parts of the project:
 
-* [3D Parts Design](docs\Meca.md)
+* [3D Parts Design](docs/Meca.md)
 
-* [Electronics Guide](docs\Elec.md)
+* [Electronics Guide](docs/Elec.md)
 
-* [Arduino Code Overview](docs\Code.md)
+* [Arduino Code Overview](docs/Code.md)
 
 ## 🔍 About this project
 
