@@ -1,6 +1,6 @@
 # Robot Otto
 
-**Description:** A bipedal robot capable of sensing its environment and controllable via Bluetooth
+**A bipedal robot capable of sensing its environment and controllable via Bluetooth** 
 
 <div style="text-align: center;">
   <img src="images\otto.jpg" alt="Otto" width="300"/>
